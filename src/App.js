@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import CodeContainer from './components/code_container';
 
 class App extends Component {
